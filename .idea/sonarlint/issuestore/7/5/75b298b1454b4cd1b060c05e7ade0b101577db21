@@ -1,0 +1,7 @@
+
+wsquid:S1450"]Remove the "btnMultiplicar" field and declare it as a local variable in the relevant methods.(¨°±µıÿÿÿÿ
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(ú¦™¼
+rsquid:S1450"XRemove the "btnRestar" field and declare it as a local variable in the relevant methods.(·­÷úÿÿÿÿ
+hsquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(”‰ˆ“ıÿÿÿÿ
+nsquid:S1450"YRemove the "btnDividir" field and declare it as a local variable in the relevant methods.(¾ûœÕ
+lsquid:S1450"WRemove the "btnSumar" field and declare it as a local variable in the relevant methods.(Â¤ïÖ
